@@ -1,0 +1,6 @@
+[
+    'Quiero 2 billetes de Madrid a Frankfurt en Septiembre',
+    'Necesito comprar un billete a Madrid el 5 de Agosto',
+    'Comprar billete Barcelona a Roma para el 25 de Agosto con Iberia',
+    'Billete barato AirEuropa de Madrid a Sevilla'
+]
